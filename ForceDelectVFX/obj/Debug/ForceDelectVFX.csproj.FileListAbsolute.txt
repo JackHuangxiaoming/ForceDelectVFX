@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ForceDelectVFX\ForceDelectVFX\bin\Debug\ForceDelectVFX.exe.config
+C:\Users\Administrator\source\repos\ForceDelectVFX\ForceDelectVFX\bin\Debug\ForceDelectVFX.exe
+C:\Users\Administrator\source\repos\ForceDelectVFX\ForceDelectVFX\bin\Debug\ForceDelectVFX.pdb
+C:\Users\Administrator\source\repos\ForceDelectVFX\ForceDelectVFX\obj\Debug\ForceDelectVFX.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ForceDelectVFX\ForceDelectVFX\obj\Debug\ForceDelectVFX.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ForceDelectVFX\ForceDelectVFX\obj\Debug\ForceDelectVFX.exe
+C:\Users\Administrator\source\repos\ForceDelectVFX\ForceDelectVFX\obj\Debug\ForceDelectVFX.pdb
